@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce36cb9a_d5c7e8d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-08-31T08:50:34Z",
+      "side": 1,
+      "message": "Works on oriole",
+      "revId": "e846d03808402900321416b30c0c90db58e83197",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
