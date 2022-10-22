@@ -3,11 +3,16 @@ System.map
 abi.prop
 abi.xml
 abi_symbollist
+abi_symbollist.report
 dtb.img
+gki_certification_tools.tar.gz
 initramfs.img
 kernel-headers.tar.gz
 kernel-uapi-headers.tar.gz
 ramdisk.gz
+system_dlkm.img
+system_dlkm_staging_archive.tar.gz
+test_mappings.zip
 unstripped_modules.tar.gz
 vmlinux
 vendor_dlkm.img
