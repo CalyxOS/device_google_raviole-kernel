@@ -4404,6 +4404,7 @@
 0x7e001075	blk_queue_flag_set	vmlinux	EXPORT_SYMBOL	
 0x90bb7c27	__ieee80211_schedule_txq	vmlinux	EXPORT_SYMBOL	
 0xb0e219e8	cfg80211_del_sta_sinfo	vmlinux	EXPORT_SYMBOL	
+0x3276732e	usb_udc_vbus_handler	vmlinux	EXPORT_SYMBOL_GPL	
 0xc7ca016b	dmabuf_page_pool_create	vmlinux	EXPORT_SYMBOL_GPL	
 0xae47a396	__traceiter_android_vh_mmc_blk_reset	vmlinux	EXPORT_SYMBOL_GPL	
 0x18507db9	drm_connector_init	vmlinux	EXPORT_SYMBOL	
