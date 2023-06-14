@@ -15,10 +15,13 @@ gki-info.txt
 initramfs.img
 kernel-headers.tar.gz
 kernel-uapi-headers.tar.gz
+modules.builtin
+modules.builtin.modinfo
 ramdisk.gz
 system_dlkm.img
 system_dlkm_staging_archive.tar.gz
 test_mappings.zip
 unstripped_modules.tar.gz
 vmlinux
+vmlinux.symvers
 vendor_dlkm.img
