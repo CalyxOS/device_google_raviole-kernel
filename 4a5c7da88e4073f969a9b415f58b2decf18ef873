@@ -16,6 +16,23 @@
       "message": "oriole is fine.",
       "revId": "4a5c7da88e4073f969a9b415f58b2decf18ef873",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad0b6bc4_65644549",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-07-13T22:37:06Z",
+      "side": 1,
+      "message": "raven boots",
+      "revId": "4a5c7da88e4073f969a9b415f58b2decf18ef873",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
